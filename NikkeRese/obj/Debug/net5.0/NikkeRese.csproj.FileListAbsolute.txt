@@ -1,0 +1,16 @@
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.exe
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.deps.json
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.runtimeconfig.json
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.runtimeconfig.dev.json
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.dll
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\ref\NikkeRese.dll
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\bin\Debug\net5.0\NikkeRese.pdb
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.csproj.AssemblyReference.cache
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.AssemblyInfoInputs.cache
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.AssemblyInfo.cs
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.csproj.CoreCompileInputs.cache
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.dll
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\ref\NikkeRese.dll
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.pdb
+C:\Users\Hura\source\repos\NikkeRese\NikkeRese\obj\Debug\net5.0\NikkeRese.genruntimeconfig.cache

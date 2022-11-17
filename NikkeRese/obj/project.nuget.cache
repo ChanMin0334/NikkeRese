@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bp3awFuPszJeE6D2aHGSTN0UY1J9sm2R18vgpCzNZusn1a8EUeiQv7aDGkRFPit4byfGfx9ZHBew7ZpvZkjgYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hura\\source\\repos\\NikkeRese\\NikkeRese\\NikkeRese.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
